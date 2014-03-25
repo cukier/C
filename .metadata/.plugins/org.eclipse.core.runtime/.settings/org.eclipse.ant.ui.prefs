@@ -1,0 +1,5 @@
+#Thu Nov 03 10:01:01 BRST 2011
+org.eclipse.ant.ui.customtemplates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+useAnnotationsPrefPage=true
+eclipse.preferences.version=1
+useQuickDiffPrefPage=true

@@ -1,0 +1,1 @@
+counter.d: ../counter.c

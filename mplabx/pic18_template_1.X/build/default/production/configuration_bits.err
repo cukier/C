@@ -1,0 +1,5 @@
+*** "..\..\..\configuration_bits.c" Line 5: Error #18: File can not be opened
+    Not in "C:\PICC\devices\htc.h"
+    Not in "C:\PICC\drivers\htc.h"
+    Not in project "C:\Documents and Settings\Cuki\Meus documentos\workspace\mplabx\pic18_template_1.X\htc.h"
+C:\Documents and Settings\Cuki\Meus documentos\workspace\mplabx\pic18_template_1.X\configuration_bits.o ===>  1 Errors,  0 Warnings.

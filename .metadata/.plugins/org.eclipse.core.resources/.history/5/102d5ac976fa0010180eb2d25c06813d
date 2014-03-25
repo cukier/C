@@ -1,0 +1,7 @@
+#Wed Oct 19 15:20:31 BRST 2011
+eclipse.preferences.version=1
+environment/project/0.147593633/PATH/delimiter=;
+environment/project/0.147593633/PATH/operation=replace
+environment/project/0.147593633/PATH/value=C\:/Program Files/Java/jre7/bin/client;C\:/Program Files/Java/jre7/bin;C\:/Program Files/Java/jre7/lib/i386;C\:\\Program Files\\Business Objects\\Common\\3.5\\bin\\NOTES\\;C\:\\Program Files\\Business Objects\\Common\\3.5\\bin\\NOTES\\DATA\\;C\:\\Program Files\\NVIDIA Corporation\\PhysX\\Common;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\PROGRA~1\\PICC;C\:\\Program Files\\Microchip\\MPLAB C32 Suite\\bin;C\:\\Program Files\\HI-TECH Software\\PICC\\9.81\\bin;C\:\\Program Files\\Labcenter Electronics\\Proteus 7 Professional\\BIN;C\:\\Cygwin\\bin;;C\:\\Cygwin;C\:\\ARQUIV~1\\PICC;C\:\\Program Files\\MySQL\\MySQL Server 5.5\\bin;C\:\\Program Files\\ATI Technologies\\ATI.ACE\\Core-Static;C\:\\Program Files\\proeWildfire 5.0\\bin;C\:\\Program Files\\proeWildfire 5.0\\mech\\bin;C\:\\Program Files\\Java\\jdk1.7.0\\jre/bin;C\:\\Program Files\\SDCC\\bin;C\:\\Eclipse;${Path}
+environment/project/0.147593633/append=true
+environment/project/0.147593633/appendContributed=true

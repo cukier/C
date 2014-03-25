@@ -1,0 +1,25 @@
+/*
+ * gyro.c
+ *
+ *  Created on: 19/10/2011
+ *      Author: cuki
+ */
+#include<stdio.h>
+
+struct register_ctrl_reg1 {
+	unsigned :4;
+	unsigned bw :2;
+	unsigned dr :2;
+} ctrl_reg1;
+
+void main(void) {
+
+	ctrl_reg1 = 0xFF;
+	printf("\n%u", ctrl_reg1);
+	ctrl_reg1.bw = 0x03;
+	printf("\n%u", ctrl_reg1);
+	ctrl_reg1.dr = 0x00;
+
+
+
+}

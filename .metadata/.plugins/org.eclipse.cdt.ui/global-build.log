@@ -1,0 +1,37 @@
+07:40:30 **** Incremental Build of configuration Debug for project StringModbus ****
+make all 
+make: Nothing to be done for `all'.
+07:40:32 **** Incremental Build of configuration Debug for project StringModbus ****
+make all 
+make: Nothing to be done for `all'.
+07:48:21 **** Incremental Build of configuration Debug for project Hello ****
+make all 
+make: Nothing to be done for `all'.
+07:48:31 **** Incremental Build of configuration Debug for project StringModbus ****
+make all 
+make: Nothing to be done for `all'.
+07:49:51 **** Incremental Build of configuration Debug for project StringModbus ****
+make all 
+make: Nothing to be done for `all'.
+07:50:11 **** Incremental Build of configuration Debug for project StringModbus ****
+make all 
+make: Nothing to be done for `all'.
+07:58:08 **** Incremental Build of configuration Debug for project StringModbus ****
+make all 
+make: Nothing to be done for `all'.
+08:00:39 **** Incremental Build of configuration Debug for project StringModbus ****
+make all 
+Building file: ../strmodbus.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"strmodbus.d" -MT"strmodbus.d" -o "strmodbus.o" "../strmodbus.c"
+../strmodbus.c: In function 'checkNr':
+../strmodbus.c:21:2: warning: implicit declaration of function 'atoi' [-Wimplicit-function-declaration]
+  int aux = atoi(s);
+  ^
+Finished building: ../strmodbus.c
+ 
+Building target: StringModbus.exe
+Invoking: Cygwin C Linker
+gcc  -o "StringModbus.exe"  ./strmodbus.o   
+Finished building target: StringModbus.exe
+ 

@@ -1,0 +1,22 @@
+
+**** Build of configuration Debug for project gyro ****
+
+make all 
+Building file: ../gyro.c
+Invoking: Cygwin C Compiler
+ccsc -O0 +FH +EA +OW -MMD -MP -MF"gyro.d" -MT"gyro.d" -o"gyro.o" "../gyro.c"
+cygwin warning:
+  MS-DOS style path detected: D:\workspace\gyro\Debug
+  Preferred POSIX equivalent is: /cygdrive/d/workspace/gyro/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../gyro.c
+ 
+Building target: gyro.hex
+Invoking: Cygwin C Linker
+o"gyro.hex"  ./gyro.o   
+/bin/sh: ogyro.hex: command not found
+make: [gyro.hex] Error 127 (ignored)
+Finished building target: gyro.hex
+ 

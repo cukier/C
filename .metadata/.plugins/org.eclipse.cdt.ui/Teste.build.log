@@ -1,0 +1,20 @@
+
+**** Build of configuration Debug for project Teste ****
+
+make all 
+Building file: ../teste.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"teste.d" -MT"teste.d" -o"teste.o" "../teste.c"
+cygwin warning:
+  MS-DOS style path detected: D:\workspace\Teste\Debug
+  Preferred POSIX equivalent is: /cygdrive/d/workspace/Teste/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../teste.c
+ 
+Building target: Teste.exe
+Invoking: Cygwin C Linker
+gcc  -o"Teste.exe"  ./teste.o   
+Finished building target: Teste.exe
+ 

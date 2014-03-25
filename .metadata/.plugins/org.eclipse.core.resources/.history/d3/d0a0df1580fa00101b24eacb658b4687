@@ -1,0 +1,12 @@
+/*
+ * gyro.c
+ *
+ *  Created on: 19/10/2011
+ *      Author: cuki
+ */
+
+#include <18F452.h>
+
+void main(voi) {
+
+}

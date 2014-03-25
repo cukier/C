@@ -1,0 +1,1 @@
+strmodbus.d: ../strmodbus.c

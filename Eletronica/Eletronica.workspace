@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Eletronica" Database="/Eletronica/workspace/Eletronica/.codelite/Eletronica.tags">
+  <Project Name="Tamanho" Path="Tamanho/Tamanho.project" Active="No"/>
+  <Project Name="PortasLogicas" Path="PortasLogicas/PortasLogicas.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="Tamanho" ConfigName="Debug"/>
+      <Project Name="PortasLogicas" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="Tamanho" ConfigName="Release"/>
+      <Project Name="PortasLogicas" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

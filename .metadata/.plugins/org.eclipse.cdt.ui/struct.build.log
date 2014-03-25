@@ -1,0 +1,18 @@
+
+**** Build of configuration Debug for project struct ****
+
+make all 
+Building file: ../struct.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"struct.d" -MT"struct.d" -o"struct.o" "../struct.c"
+../struct.c: In function 'main':
+../struct.c:88: warning: assignment from incompatible pointer type
+../struct.c:100: warning: value computed is not used
+../struct.c:76: warning: unused variable 'p'
+Finished building: ../struct.c
+ 
+Building target: struct.exe
+Invoking: Cygwin C Linker
+gcc  -o"struct.exe"  ./struct.o   
+Finished building target: struct.exe
+ 
