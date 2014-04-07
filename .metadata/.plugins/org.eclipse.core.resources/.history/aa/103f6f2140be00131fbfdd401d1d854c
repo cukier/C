@@ -1,0 +1,17 @@
+/*
+ * aloca.h
+ *
+ *  Created on: 07/04/2014
+ *      Author: cuki
+ */
+
+#ifndef ALOCA_H_
+#define ALOCA_H_
+
+class aloca {
+public:
+	aloca();
+	virtual ~aloca();
+};
+
+#endif /* ALOCA_H_ */
