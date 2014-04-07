@@ -38,10 +38,10 @@ int **aloca(int y, int x) {
 	int i;
 	int **matriz;
 
-//	matriz = (int **) malloc(y * sizeof(int*)); //isso
-	matriz = (int **) malloc(y * sizeof(int)); //ou isso
-	for (i = 0; i < y; i++)
-		matriz[i] = (int *) malloc(x * sizeof(int));
+	matriz = (int **) malloc(y * sizeof(int*)); //isso
+//	matriz = (int **) malloc(y * sizeof(int)); //ou isso
+//	for (i = 0; i < y; i++)
+//		matriz[i] = (int *) malloc(x * sizeof(int));
 	if (matriz == NULL) {
 		printf("Erro ao alocar!\n");
 		getchar();
