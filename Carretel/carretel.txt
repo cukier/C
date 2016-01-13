@@ -1,0 +1,23 @@
+Altura da mangueira   : 82.75
+Diametro da mangueira : 90.00
+Diametro do tambor    : 1359.00
+Camada 1
+  Diam                : 1441.75
+  Comprimento Espira  : 4529.39
+  Comprimento Camada  : 58882.09
+Camada 2
+  Diam                : 1607.25
+  Comprimento Espira  : 5049.33
+  Comprimento Camada  : 65641.23
+Camada 3
+  Diam                : 1772.75
+  Comprimento Espira  : 5569.26
+  Comprimento Camada  : 72400.37
+Camada 4
+  Diam                : 1938.25
+  Comprimento Espira  : 6089.19
+  Comprimento Camada  : 79159.51
+Camada 5
+  Diam                : 2103.75
+  Comprimento Espira  : 6609.13
+  Comprimento Camada  : 85918.65
